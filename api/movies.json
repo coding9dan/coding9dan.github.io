@@ -1,6 +1,6 @@
 {
   "success": true,
-  "data": [
+  "movies": [
     {
       "title": "Some Movie",
       "rating": 65
