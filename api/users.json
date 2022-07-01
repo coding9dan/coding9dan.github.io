@@ -16,11 +16,7 @@
     },
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/men/75.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/men/75.jpg",
     "company": {
       "name": "Romaguera-Crona",
       "catchPhrase": "Multi-layered client-server neural-net",
@@ -44,11 +40,7 @@
     },
     "phone": "010-692-6593 x09125",
     "website": "anastasia.net",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/men/76.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/men/76.jpg",
     "company": {
       "name": "Deckow-Crist",
       "catchPhrase": "Proactive didactic contingency",
@@ -72,11 +64,7 @@
     },
     "phone": "1-463-123-4447",
     "website": "ramiro.info",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/women/76.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/women/76.jpg",
     "company": {
       "name": "Romaguera-Jacobson",
       "catchPhrase": "Face to face bifurcated interface",
@@ -100,11 +88,7 @@
     },
     "phone": "493-170-9623 x156",
     "website": "kale.biz",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/women/75.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/women/75.jpg",
     "company": {
       "name": "Robel-Corkery",
       "catchPhrase": "Multi-tiered zero tolerance productivity",
@@ -128,11 +112,7 @@
     },
     "phone": "(254)954-1289",
     "website": "demarco.info",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/women/77.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/women/77.jpg",
     "company": {
       "name": "Keebler LLC",
       "catchPhrase": "User-centric fault-tolerant solution",
@@ -156,11 +136,7 @@
     },
     "phone": "1-477-935-8478 x6430",
     "website": "ola.org",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/women/71.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/women/71.jpg",
     "company": {
       "name": "Considine-Lockman",
       "catchPhrase": "Synchronised bottom-line interface",
@@ -184,11 +160,7 @@
     },
     "phone": "210.067.6132",
     "website": "elvis.io",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/men/72.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/men/72.jpg",
     "company": {
       "name": "Johns Group",
       "catchPhrase": "Configurable multimedia task-force",
@@ -212,11 +184,7 @@
     },
     "phone": "586.493.6943 x140",
     "website": "jacynthe.com",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/men/71.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/men/71.jpg",
     "company": {
       "name": "Abernathy Group",
       "catchPhrase": "Implemented secondary concept",
@@ -240,11 +208,7 @@
     },
     "phone": "(775)976-6794 x41206",
     "website": "conrad.com",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/women/70.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/women/70.jpg",
     "company": {
       "name": "Yost and Sons",
       "catchPhrase": "Switchable contextually-based project",
@@ -268,11 +232,7 @@
     },
     "phone": "024-648-3804",
     "website": "ambrose.net",
-    "picture": {
-      "large": "https://randomuser.me/api/portraits/women/68.jpg",
-      "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
-      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
-    },
+    "picture": "https://randomuser.me/api/portraits/med/women/68.jpg",
     "company": {
       "name": "Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
